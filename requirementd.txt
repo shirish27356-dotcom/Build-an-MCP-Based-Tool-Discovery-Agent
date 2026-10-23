@@ -1,0 +1,4 @@
+pip install mcp
+pip install langchain-mcp-adapters
+pip install langchain-groq
+pip install python-dotenv
